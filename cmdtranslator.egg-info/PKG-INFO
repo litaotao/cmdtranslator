@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: cmdtranslator
+Version: 0.1.0
+Summary: A console dictionary
+Home-page: http://litaotao.github.io
+Author: Taotao Li
+Author-email: litaotao@vip.163.com
+License: BSD
+Description: # pytranslate
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3

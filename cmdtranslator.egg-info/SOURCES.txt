@@ -1,0 +1,10 @@
+setup.py
+cmdtranslator.egg-info/PKG-INFO
+cmdtranslator.egg-info/SOURCES.txt
+cmdtranslator.egg-info/dependency_links.txt
+cmdtranslator.egg-info/entry_points.txt
+cmdtranslator.egg-info/not-zip-safe
+cmdtranslator.egg-info/requires.txt
+cmdtranslator.egg-info/top_level.txt
+translator/__init__.py
+translator/trans.py
