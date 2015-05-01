@@ -18,7 +18,8 @@ setup(
     # run pandoc --from=markdown --to=rst --output=README.rst README.md
     long_description=io.open("README.md", encoding='utf8').read(),
     install_requires=[
-        ""
+        "beautifulsoup4",
+        "docopt==0.6.2"
     ],
     classifiers=['Intended Audience :: Science/Research',
                  'Intended Audience :: Developers',
