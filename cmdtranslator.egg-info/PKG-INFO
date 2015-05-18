@@ -8,6 +8,23 @@ Author-email: litaotao@vip.163.com
 License: BSD
 Description: # pytranslate
         
+        
+        A easy-going command line translation tools, for our engineers.
+        
+        
+        ### tutorial
+        
+        see bellow or click this [link](http://v.youku.com/v_show/id_XOTQ2MTQ5Njg4.html)
+        
+        <iframe height=498 width=510 src="http://v.youku.com/v_show/id_XOTQ2MTQ5Njg4.html" frameborder=0 allowfullscreen></iframe>
+        
+        
+        
+        # CHANGES
+        
+        ## Version 0.1.0
+        
+        - Support phase translate
 Platform: UNKNOWN
 Classifier: Intended Audience :: Science/Research
 Classifier: Intended Audience :: Developers
