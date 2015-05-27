@@ -1,7 +1,7 @@
 # pytranslate
 
 
-A easy-going command line translation tools, for our engineers.
+An easy-going command line translation tools, for our engineers.
 
 
 ### tutorial
@@ -16,4 +16,4 @@ see bellow:
 
 ## Version 0.1.0
 
-- Support phase translate
+- Support Chinese -> English and English -> Chinese;
