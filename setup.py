@@ -19,7 +19,8 @@ setup(
     long_description=io.open("README.md", encoding='utf8').read(),
     install_requires=[
         "beautifulsoup4",
-        "docopt==0.6.2"
+        "docopt==0.6.2",
+        "requests==2.7.0"
     ],
     classifiers=['Intended Audience :: Science/Research',
                  'Intended Audience :: Developers',
